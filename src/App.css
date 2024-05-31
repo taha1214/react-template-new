@@ -1,0 +1,38 @@
+*{
+  text-transform:capitalize;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.counter h2{
+  font-size: 80px;
+}
+.counter h1{
+  font-size: 60px;
+  background-color: grey;
+}
+.counter button{
+  cursor: pointer;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 40;
+  margin: 0 10px;
+  height: 100px;
+  width: 100px;
+  font-size: xx-large;
+}
+.inc{
+  background-color: green;
+}
+.dec{
+  background-color: red;
+}
+.reset{
+  background-color: black;
+  color: #fff;
+}
