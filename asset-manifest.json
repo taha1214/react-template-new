@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taha1214/react-template-new/static/css/main.1b74a1eb.css",
+    "main.js": "/taha1214/react-template-new/static/js/main.62601fa3.js",
+    "static/js/453.0f10a1a4.chunk.js": "/taha1214/react-template-new/static/js/453.0f10a1a4.chunk.js",
+    "index.html": "/taha1214/react-template-new/index.html",
+    "main.1b74a1eb.css.map": "/taha1214/react-template-new/static/css/main.1b74a1eb.css.map",
+    "main.62601fa3.js.map": "/taha1214/react-template-new/static/js/main.62601fa3.js.map",
+    "453.0f10a1a4.chunk.js.map": "/taha1214/react-template-new/static/js/453.0f10a1a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b74a1eb.css",
+    "static/js/main.62601fa3.js"
+  ]
+}
