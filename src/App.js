@@ -3,8 +3,7 @@ import React, { useState } from "react";
 
 
 function App() {
-  const [number, setNumber] = useState(0)
-
+  const [number, setNumber] = useState(0);
   return (
     <div className="App counter">
       <h2>counter</h2>
